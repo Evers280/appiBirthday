@@ -1,0 +1,46 @@
+INFO 2025-04-30 15:39:36,412 autoreload Watching for file changes with StatReloader
+INFO 2025-04-30 15:41:00,154 autoreload /home/evers-d-mbini/Documents/apiBirthday/appiBirthday/settings.py changed, reloading.
+INFO 2025-04-30 15:41:01,924 autoreload Watching for file changes with StatReloader
+INFO 2025-04-30 16:05:35,458 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-30 16:05:48,520 log Not Found: /
+WARNING 2025-04-30 16:05:50,209 log Not Found: /favicon.ico
+WARNING 2025-04-30 16:06:20,714 log Method Not Allowed: /appiBirthday/token/
+WARNING 2025-04-30 16:07:53,933 log Forbidden: /appiBirthday/invites/
+WARNING 2025-04-30 16:08:05,995 log Bad Request: /appiBirthday/invites/
+INFO 2025-04-30 16:08:23,408 email_utils Début de l'envoi de l'email
+INFO 2025-04-30 16:08:23,409 email_utils Message MIME créé
+INFO 2025-04-30 16:08:23,411 email_utils Message encodé en base64
+INFO 2025-04-30 16:08:23,411 email_utils Début de get_gmail_service
+INFO 2025-04-30 16:08:23,412 email_utils Jeton non valide ou absent, nouvelle authentification requise
+INFO 2025-04-30 16:08:23,412 email_utils Chargement des identifiants depuis /home/evers-d-mbini/Documents/apiBirthday/myAppiBirthday/credentials/client_secret.json
+INFO 2025-04-30 16:08:23,414 email_utils Lancement de l'authentification via run_local_server
+INFO 2025-04-30 16:14:07,645 autoreload Watching for file changes with StatReloader
+ERROR 2025-04-30 16:14:15,233 email_utils Erreur lors de l'envoi de l'email à eversdmbini@gmail.com : [Errno 98] Address already in use
+WARNING 2025-04-30 16:14:15,244 log Bad Request: /appiBirthday/invites/
+INFO 2025-04-30 16:26:39,643 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-30 16:26:59,722 log Unauthorized: /appiBirthday/invites/
+ERROR 2025-04-30 16:28:26,771 email_utils Erreur lors de l'envoi de l'email à eversdmbini@gmail.com : [Errno 98] Address already in use
+WARNING 2025-04-30 16:28:26,773 log Bad Request: /appiBirthday/invites/
+INFO 2025-04-30 16:33:00,621 autoreload /home/evers-d-mbini/Documents/apiBirthday/myAppiBirthday/email_utils.py changed, reloading.
+INFO 2025-04-30 16:33:02,480 autoreload Watching for file changes with StatReloader
+INFO 2025-04-30 16:34:50,679 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-30 16:34:58,805 log Not Found: /
+WARNING 2025-04-30 16:35:03,905 log Not Found: /favicon.ico
+WARNING 2025-04-30 16:35:32,807 log Method Not Allowed: /appiBirthday/token/
+ERROR 2025-04-30 16:38:37,038 email_utils Erreur lors de l'envoi de l'email à eversdmbini@gmail.com : 'list' object cannot be interpreted as an integer
+WARNING 2025-04-30 16:38:37,041 log Bad Request: /appiBirthday/invites/
+ERROR 2025-04-30 16:40:57,274 email_utils Erreur lors de l'envoi de l'email à eversdmbini@gmail.com : 'list' object cannot be interpreted as an integer
+WARNING 2025-04-30 16:40:57,277 log Bad Request: /appiBirthday/invites/
+INFO 2025-04-30 16:47:16,143 autoreload /home/evers-d-mbini/Documents/apiBirthday/myAppiBirthday/email_utils.py changed, reloading.
+INFO 2025-04-30 16:47:18,717 autoreload Watching for file changes with StatReloader
+INFO 2025-04-30 17:25:56,324 autoreload Watching for file changes with StatReloader
+ERROR 2025-04-30 17:26:25,225 email_utils Erreur lors de l'envoi de l'email à eversdmbini@gmail.com : [Errno 98] Address already in use
+WARNING 2025-04-30 17:26:25,237 log Bad Request: /appiBirthday/invites/
+INFO 2025-04-30 17:26:51,234 autoreload Watching for file changes with StatReloader
+INFO 2025-04-30 17:28:34,450 flow "GET /?state=mZGRHJOIsh46Z7y50Y0ocrU8gbTynh&code=4/0Ab_5qlkQiMaGxcvk4iPxJzKgI_-8lJTgTwRs0FXzstlqaErqETkd00g15FoX1V9GsWYXBw&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+INFO 2025-04-30 17:28:34,984 __init__ file_cache is only supported with oauth2client<4.0.0
+INFO 2025-04-30 17:28:36,134 email_utils Email de confirmation envoyé à eversdmbini@gmail.com, ID du message : 196878757911b877
+INFO 2025-04-30 17:31:23,505 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-30 17:31:54,561 log Not Found: /
+INFO 2025-04-30 17:34:39,495 __init__ file_cache is only supported with oauth2client<4.0.0
+INFO 2025-04-30 17:34:40,745 email_utils Email de confirmation envoyé à eversdarrellmbini28@gmail.com, ID du message : 196878ce707c3f9b
